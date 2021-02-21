@@ -10,6 +10,9 @@
 
 <body>
     <h1>Data Karyawan PT Pakerin</h1>
+    <table>
+
+    </table>
 </body>
 
 </html>
